@@ -37,8 +37,8 @@ const Formm = ({ stop_propagate,hideModal })=>{
             }, 500);
         }, 2000);
 
+        
         // post to server
-
         const user = {
             email: email,
             password: pwd
