@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ocasinal-supar/static/css/main.b92fcee1.css",
+    "main.js": "/ocasinal-supar/static/js/main.be49ce8a.js",
+    "static/js/787.decd0524.chunk.js": "/ocasinal-supar/static/js/787.decd0524.chunk.js",
+    "index.html": "/ocasinal-supar/index.html",
+    "main.b92fcee1.css.map": "/ocasinal-supar/static/css/main.b92fcee1.css.map",
+    "main.be49ce8a.js.map": "/ocasinal-supar/static/js/main.be49ce8a.js.map",
+    "787.decd0524.chunk.js.map": "/ocasinal-supar/static/js/787.decd0524.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b92fcee1.css",
+    "static/js/main.be49ce8a.js"
+  ]
+}
